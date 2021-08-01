@@ -1,3 +1,7 @@
+# this code was written in python
+# it does pretty much the same functions that our figma does
+# this code serves as the base of what we want our website to be like
+
 print("Hi! You will now be answering questions about your vaccination!")
 username = input("What is your name: ")
 vaccine = input("Enter the vaccine you received: ")
